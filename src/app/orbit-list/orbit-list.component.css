@@ -21,8 +21,13 @@ table {
     color: #fff
 }
 
+
 th, td {
     text-align: left;
     margin: 5px 10px;
     padding: 6px;
+}
+
+.tr-style {
+    background-color: #eb4034;
 }
