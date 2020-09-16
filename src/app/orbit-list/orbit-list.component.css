@@ -28,6 +28,10 @@ th, td {
     padding: 6px;
 }
 
-.tr-style {
+.tr-style-warning {
     background-color: #eb4034;
+}
+
+.tr-style-stripes {
+
 }
